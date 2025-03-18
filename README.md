@@ -1,4 +1,4 @@
-# RoadRunner Hop 🐔🚗
+# RoadRunner Hop 
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/zid.png" width="100" />
 </div>
@@ -15,7 +15,7 @@
 
 ---
 <h3 align="center">
-The objective of Crossy Road is to cross an endless highway or series of roads and avoid obstacles as far as possible without dying. The player plays as a chosen character and must tap to go forward or swipe the screen in the appropriate direction to move the character horizontally. My personal high score is 66, think you can beat it?
+The objective of RoadRunner Hop is to cross an endless highway or series of roads and avoid obstacles as far as possible without dying. The player plays as a chosen character and must tap to go forward or swipe the screen in the appropriate direction to move the character horizontally. My personal high score is 66, think you can beat it?
   </h3>
   
   <h3 align="center">
@@ -27,7 +27,7 @@ You could also play it on Mobile!
 </h1>
  
  <h3 align="center">
-I am proud to say that Arcade Chicken can be enjoyed on all digital mediums! You could play it on your phone, ipad, or possibly your TV!
+I am proud to say that RoadRunner Hop can be enjoyed on all digital mediums! You could play it on your phone, ipad, or possibly your TV!
  </h3>
  
  <h3 align="center"></h3>
@@ -40,7 +40,7 @@ I am proud to say that Arcade Chicken can be enjoyed on all digital mediums! You
 
 ---
 <h1 align="center">
-🚀 Building your own Arcade Chicken
+🚀 Building your own RoadRunner Hop
 </h1>
 
 1. Download the repository
