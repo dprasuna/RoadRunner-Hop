@@ -1,8 +1,7 @@
 # RoadRunner Hop 
-![image](https://github.com/user-attachments/assets/138306e6-c2c8-4df9-8405-d59249f76072)
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/138306e6-c2c8-4df9-8405-d59249f76072" alt="ChickenHop" />
+</p>
 <h1 align="center">
    <a href="https://chickenhop.netlify.app" target="_blank">RoadRunner Hop 🐔🚗</a>
 </h1>
