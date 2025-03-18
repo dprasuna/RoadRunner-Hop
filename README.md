@@ -1,8 +1,6 @@
 # RoadRunner Hop 
-<div align="center">
-  <img alt="Logo" src="![image](https://github.com/user-attachments/assets/9fa7e6a6-3b0d-49ce-9201-542a7a25740b)
-" width="100" />
-</div>
+![image](https://github.com/user-attachments/assets/138306e6-c2c8-4df9-8405-d59249f76072)
+
 
 
 <h1 align="center">
